@@ -1,0 +1,7 @@
+runtime: nodejs20
+
+env_variables:
+  NODE_ENV: "production"
+
+beta_settings:
+  cloud_sql_instances: "b8is124-ca1-client-info:europe-west2:clientinfo-db"
