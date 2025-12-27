@@ -235,5 +235,4 @@ This project is licensed under the MIT License. Feel free to use it for educatio
 #   t r i g g e r 
  
  #   t r i g g e r   t e s t 
- 
- .
+
